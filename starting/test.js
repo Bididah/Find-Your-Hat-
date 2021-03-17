@@ -17,7 +17,6 @@ switch (direction) {
             console.log("l")
                 break;
             default:
-                console.log(direction)
                 console.log('Please enter a valid Diriction ')
                break;
        }
